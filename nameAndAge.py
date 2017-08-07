@@ -1,0 +1,10 @@
+print("please enter your name and age: ")
+name = input()
+age = int(input())
+print("your name is " +name)
+msz = "you will be 100 years at " +str(2017 +(100-age)) 
+print(msz)
+num =int(input("please enter another number: "))
+print(msz*num)
+print(msz *num,"\n")
+
